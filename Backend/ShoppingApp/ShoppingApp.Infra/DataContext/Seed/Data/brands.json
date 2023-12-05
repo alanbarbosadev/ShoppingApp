@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "4360cfdc-e4d4-4e95-9d20-008dde2e905f",
+    "Name": "Angular"
+  },
+  {
+    "Id": "31a1f3a9-064b-4a38-838f-534118c33176",
+    "Name": "NetCore"
+  },
+  {
+    "Id": "9ea2ff10-2499-4b17-a3bc-1c4b0870d92c",
+    "Name": "VS Code"
+  },
+  {
+    "Id": "3721d4c5-219b-44b3-9c94-89a8b5681acc",
+    "Name": "React"
+  },
+  {
+    "Id": "49db48f7-5f29-49aa-8f5b-0eeac5d2b0e2",
+    "Name": "Typescript"
+  },
+  {
+    "Id": "6a01f1b3-1815-4b45-b34f-ac45dd897300",
+    "Name": "Redis"
+  }
+]

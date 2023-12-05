@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Angular Speedster Board 2000",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "ProductTypeId": "3f427606-b0c2-42f7-837d-88402b783d11",
+    "ProductBrandId": "4360cfdc-e4d4-4e95-9d20-008dde2e905f"
+  },
+  {
+    "Name": "Green Angular Board 3000",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/products/sb-ang2.png",
+    "ProductTypeId": "3f427606-b0c2-42f7-837d-88402b783d11",
+    "ProductBrandId": "4360cfdc-e4d4-4e95-9d20-008dde2e905f"
+  },
+  {
+    "Name": "Core Board Speed Rush 3",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/sb-core1.png",
+    "ProductTypeId": "3f427606-b0c2-42f7-837d-88402b783d11",
+    "ProductBrandId": "31a1f3a9-064b-4a38-838f-534118c33176"
+  },
+  {
+    "Name": "Net Core Super Board",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "PictureUrl": "images/products/sb-core2.png",
+    "ProductTypeId": "3f427606-b0c2-42f7-837d-88402b783d11",
+    "ProductBrandId": "31a1f3a9-064b-4a38-838f-534118c33176"
+  },
+  {
+    "Name": "React Board Super Whizzy Fast",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "PictureUrl": "images/products/sb-react1.png",
+    "ProductTypeId": "3f427606-b0c2-42f7-837d-88402b783d11",
+    "ProductBrandId": "3721d4c5-219b-44b3-9c94-89a8b5681acc"
+  },
+  {
+    "Name": "Typescript Entry Board",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "PictureUrl": "images/products/sb-ts1.png",
+    "ProductTypeId": "3f427606-b0c2-42f7-837d-88402b783d11",
+    "ProductBrandId": "49db48f7-5f29-49aa-8f5b-0eeac5d2b0e2"
+  },
+  {
+    "Name": "Core Blue Hat",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10,
+    "PictureUrl": "images/products/hat-core1.png",
+    "ProductTypeId": "c1fa5162-f837-4f62-90bd-6b90478a8aff",
+    "ProductBrandId": "31a1f3a9-064b-4a38-838f-534118c33176"
+  },
+  {
+    "Name": "Green React Woolen Hat",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8,
+    "PictureUrl": "images/products/hat-react1.png",
+    "ProductTypeId": "c1fa5162-f837-4f62-90bd-6b90478a8aff",
+    "ProductBrandId": "3721d4c5-219b-44b3-9c94-89a8b5681acc"
+  },
+  {
+    "Name": "Purple React Woolen Hat",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15,
+    "PictureUrl": "images/products/hat-react2.png",
+    "ProductTypeId": "c1fa5162-f837-4f62-90bd-6b90478a8aff",
+    "ProductBrandId": "3721d4c5-219b-44b3-9c94-89a8b5681acc"
+  },
+  {
+    "Name": "Blue Code Gloves",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18,
+    "PictureUrl": "images/products/glove-code1.png",
+    "ProductTypeId": "8d691e92-3bd8-44d0-9070-8f9689687b64",
+    "ProductBrandId": "9ea2ff10-2499-4b17-a3bc-1c4b0870d92c"
+  },
+  {
+    "Name": "Green Code Gloves",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/glove-code2.png",
+    "ProductTypeId": "8d691e92-3bd8-44d0-9070-8f9689687b64",
+    "ProductBrandId": "9ea2ff10-2499-4b17-a3bc-1c4b0870d92c"
+  },
+  {
+    "Name": "Purple React Gloves",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 16,
+    "PictureUrl": "images/products/glove-react1.png",
+    "ProductTypeId": "8d691e92-3bd8-44d0-9070-8f9689687b64",
+    "ProductBrandId": "3721d4c5-219b-44b3-9c94-89a8b5681acc"
+  },
+  {
+    "Name": "Green React Gloves",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 14,
+    "PictureUrl": "images/products/glove-react2.png",
+    "ProductTypeId": "8d691e92-3bd8-44d0-9070-8f9689687b64",
+    "ProductBrandId": "3721d4c5-219b-44b3-9c94-89a8b5681acc"
+  },
+  {
+    "Name": "Redis Red Boots",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 250,
+    "PictureUrl": "images/products/boot-redis1.png",
+    "ProductTypeId": "12f631b0-d9bd-4429-ac1d-d9db165c6ebe",
+    "ProductBrandId": "6a01f1b3-1815-4b45-b34f-ac45dd897300"
+  },
+  {
+    "Name": "Core Red Boots",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/boot-core2.png",
+    "ProductTypeId": "12f631b0-d9bd-4429-ac1d-d9db165c6ebe",
+    "ProductBrandId": "31a1f3a9-064b-4a38-838f-534118c33176"
+  },
+  {
+    "Name": "Core Purple Boots",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/boot-core1.png",
+    "ProductTypeId": "12f631b0-d9bd-4429-ac1d-d9db165c6ebe",
+    "ProductBrandId": "31a1f3a9-064b-4a38-838f-534118c33176"
+  },
+  {
+    "Name": "Angular Purple Boots",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 150,
+    "PictureUrl": "images/products/boot-ang2.png",
+    "ProductTypeId": "12f631b0-d9bd-4429-ac1d-d9db165c6ebe",
+    "ProductBrandId": "4360cfdc-e4d4-4e95-9d20-008dde2e905f"
+  },
+  {
+    "Name": "Angular Blue Boots",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductTypeId": "12f631b0-d9bd-4429-ac1d-d9db165c6ebe",
+    "ProductBrandId": "4360cfdc-e4d4-4e95-9d20-008dde2e905f"
+  }
+]

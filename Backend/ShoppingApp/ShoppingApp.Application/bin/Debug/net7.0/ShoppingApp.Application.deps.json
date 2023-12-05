@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ShoppingApp.Application/1.0.0": {
+        "dependencies": {
+          "ShoppingApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingApp.Application.dll": {}
+        }
+      },
+      "ShoppingApp.Domain/1.0.0": {
+        "runtime": {
+          "ShoppingApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

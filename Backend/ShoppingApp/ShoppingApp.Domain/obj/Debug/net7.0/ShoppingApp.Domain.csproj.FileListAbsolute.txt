@@ -1,0 +1,11 @@
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\bin\Debug\net7.0\ShoppingApp.Domain.deps.json
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\bin\Debug\net7.0\ShoppingApp.Domain.dll
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\bin\Debug\net7.0\ShoppingApp.Domain.pdb
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\obj\Debug\net7.0\ShoppingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\obj\Debug\net7.0\ShoppingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\obj\Debug\net7.0\ShoppingApp.Domain.AssemblyInfo.cs
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\obj\Debug\net7.0\ShoppingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\obj\Debug\net7.0\ShoppingApp.Domain.dll
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\obj\Debug\net7.0\refint\ShoppingApp.Domain.dll
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\obj\Debug\net7.0\ShoppingApp.Domain.pdb
+C:\Users\Alan Barbosa\Documents\ShoppingApp\Backend\ShoppingApp\ShoppingApp.Domain\obj\Debug\net7.0\ref\ShoppingApp.Domain.dll
