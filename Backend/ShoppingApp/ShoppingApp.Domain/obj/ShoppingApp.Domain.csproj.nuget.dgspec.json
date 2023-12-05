@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alan Barbosa\\Documents\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\ShoppingApp.Domain.csproj": {}
+    "C:\\Users\\Alan Barbosa\\Desktop\\ShoppingApp\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\ShoppingApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alan Barbosa\\Documents\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\ShoppingApp.Domain.csproj": {
+    "C:\\Users\\Alan Barbosa\\Desktop\\ShoppingApp\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\ShoppingApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alan Barbosa\\Documents\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\ShoppingApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Alan Barbosa\\Desktop\\ShoppingApp\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\ShoppingApp.Domain.csproj",
         "projectName": "ShoppingApp.Domain",
-        "projectPath": "C:\\Users\\Alan Barbosa\\Documents\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\ShoppingApp.Domain.csproj",
+        "projectPath": "C:\\Users\\Alan Barbosa\\Desktop\\ShoppingApp\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\ShoppingApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Alan Barbosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alan Barbosa\\Documents\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Alan Barbosa\\Desktop\\ShoppingApp\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

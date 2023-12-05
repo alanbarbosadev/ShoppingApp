@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1+H64RcmWXg0eC6alfQvnaGHmX+sheu5+ful7D6YEuhYB9mOqhi5gIMmFvJGV5n485vxTkVNT4JM+3YO45v6fQ==",
+  "dgSpecHash": "AJG+V+Xmv8bFQdDiFg6qnGst0QiOoqj4BPMRVq/baI0fb5HMd/y42MnCnvYB+ehjhL2gl+N8NpE/D0HqqmQ0hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alan Barbosa\\Documents\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Api\\ShoppingApp.Api.csproj",
+  "projectFilePath": "C:\\Users\\Alan Barbosa\\Desktop\\ShoppingApp\\ShoppingApp\\Backend\\ShoppingApp\\ShoppingApp.Api\\ShoppingApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alan Barbosa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Alan Barbosa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
